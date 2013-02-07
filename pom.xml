@@ -9,7 +9,9 @@
 	<artifactId>teste-maven</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<build>
-		 <sourceDirectory>${basedir}/src/java</sourceDirectory>
+		
+		<sourceDirectory>${basedir}/src/java</sourceDirectory>
+		
 		<resources>
 			<resource>
 				<directory>
