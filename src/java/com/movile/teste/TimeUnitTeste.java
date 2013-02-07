@@ -13,6 +13,8 @@ public class TimeUnitTeste {
         
         //FIXME teste de fixme
         
+        //XXX que putaria
+        
         System.out.println(TimeUnit.DAYS.toHours(2));
         
         System.out.println(TimeUnit.MINUTES.toDays(14400));
