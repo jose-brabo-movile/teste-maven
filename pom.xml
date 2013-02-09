@@ -4,9 +4,10 @@
 	<parent>
 		<groupId>com.movile.releases</groupId>
 		<artifactId>movile-base-project-releases</artifactId>
-		<version>1.0-SNAPSHOT</version>
+		<version>1.0.0-SNAPSHOT</version>
 	</parent>
 	<artifactId>teste-maven</artifactId>
+	<name></name>
 	<version>1.0.0-SNAPSHOT</version>
 	<build>
 		
@@ -106,7 +107,7 @@
 		<dependency>
 			<groupId>org.primefaces</groupId>
 			<artifactId>primefaces</artifactId>
-			<version>3.4</version>
+			<version>3.5</version>
 		</dependency>
 		<dependency>
 			<groupId>org.primefaces</groupId>
