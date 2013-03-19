@@ -8,6 +8,7 @@ public class NormalizerTeste {
 
     public static void main(String args[]) throws Exception {
     	//Teste
+    	//Teste2
         System.out.println("Original: " + value);
 
         System.out.println("ASCII   : " + Normalizer.normalize(value, Normalizer.Form.NFD).replaceAll("[^\\p{ASCII}]", ""));
