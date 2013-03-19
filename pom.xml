@@ -85,16 +85,6 @@
 			<version>${commons-lang}</version>
 		</dependency>
 		<dependency>
-			<groupId>com.movile.sbs</groupId>
-			<artifactId>jsbs</artifactId>
-			<version>${jsbs-releases}</version>
-		</dependency>
-		<dependency>
-			<groupId>com.movile.atlas</groupId>
-			<artifactId>atlas</artifactId>
-			<version>3.11.0</version>
-		</dependency>
-		<dependency>
 			<groupId>jboss</groupId>
 			<artifactId>jbossall-client</artifactId>
 			<version>4.2.2.GA</version>
