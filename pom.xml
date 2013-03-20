@@ -116,4 +116,9 @@
 			<version>1.4.1</version>
 		</dependency>
 	</dependencies>
+	<scm>
+		<url>scm:git:git@github.com:brabojr/teste-maven.git</url>
+		<connection>scm:git:git@github.com:brabojr/teste-maven.git</connection>
+		<developerConnection>scm:git:git@github.com:brabojr/teste-maven.git</developerConnection>
+	</scm>
 </project>
