@@ -18,17 +18,17 @@
 		<resources>
 			<resource>
 				<directory>
-						${basedir}/src/main/resources
+						${basedir}/src/main/resources/
 					</directory>
 			</resource>
 			<resource>
 				<directory>
-						${basedir}/profiles/common/resources
+						${basedir}/profiles/common/resources/
 					</directory>
 			</resource>
 			<resource>
 				<directory>
-						${basedir}/profiles/${profile}/resources
+						${basedir}/profiles/${profile}/resources/
 					</directory>
 			</resource>
 
