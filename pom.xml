@@ -116,8 +116,8 @@
 		</dependency>
 	</dependencies>
 	<scm>
-		<url>scm:git:git@github.com:jose-brabo/teste-maven.git</url>
-		<connection>scm:git:git@github.com:jose-brabo/teste-maven.git</connection>
-		<developerConnection>scm:git:git@github.com:jose-brabo/teste-maven.git</developerConnection>
+		<url>scm:git:git@github.com:jose-brabo-movile/teste-maven.git</url>
+		<connection>scm:git:git@github.com:jose-brabo-movile/teste-maven.git</connection>
+		<developerConnection>scm:git:git@github.com:jose-brabo-movile/teste-maven.git</developerConnection>
 	</scm>
 </project>
